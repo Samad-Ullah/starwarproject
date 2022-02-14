@@ -7,3 +7,10 @@
 ### npm start
 # build
 ### npm run build
+
+
+## This app is Live on " https://my-app-stars.herokuapp.com/ "
+
+## login credentials 
+### login: samad@gmail.com
+### passowrd: samad123
