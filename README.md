@@ -8,6 +8,7 @@
 # build
 ### npm run build
 
+### I used RTK query , JWT , EXPRESS , NODEJS , REACT , MONGOOSE, AND HEROKU 
 
 ## This app is Live on " https://my-app-stars.herokuapp.com/ "
 
